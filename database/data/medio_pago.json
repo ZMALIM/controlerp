@@ -1,0 +1,40 @@
+{
+    "medio_pago": [
+        {
+            "MedioPago": "CHEQUE",
+            "Abreviatura": "CHEQUE",
+            "Estado": "ACTIVO",
+            "Orden": "20"
+        },
+        {
+            "MedioPago": "DEPOSITO BANCARIO",
+            "Abreviatura": "DEPOSITO",
+            "Estado": "ACTIVO",
+            "Orden": "20"
+        },
+        {
+            "MedioPago": "DINERO EN EFECTIVO",
+            "Abreviatura": "EFECTIVO",
+            "Estado": "ACTIVO",
+            "Orden": "1"
+        },
+        {
+            "MedioPago": "OTROS",
+            "Abreviatura": "OTROS",
+            "Estado": "ACTIVO",
+            "Orden": "20"
+        },
+        {
+            "MedioPago": "TARJETA DE CREDITO",
+            "Abreviatura": "TARJETA",
+            "Estado": "ACTIVO",
+            "Orden": "20"
+        },
+        {
+            "MedioPago": "TRANSFERENCIA BANCARIA",
+            "Abreviatura": "TRANSFER",
+            "Estado": "ACTIVO",
+            "Orden": "20"
+        }
+    ]
+}

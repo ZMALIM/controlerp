@@ -1,0 +1,15 @@
+============================================
+Ejecutar apps Laravel en moviles y redes LAN
+=============================================
+- https://laraveles.com/foro/viewtopic.php?id=786
+
+=============================================================
+Adición de la extensión ZeroMQ de PHP a XAMPP en Windows 10 y PHP7
+=============================================================
+-https://stackoverflow.com/questions/40821137/adding-the-zeromq-php-extension-to-xampp-on-windows-10-and-php7
+
+
+=============================================================
+convertir excel a json
+=============================================================
+https://www.beautifyconverter.com/excel-to-json-converter.php
